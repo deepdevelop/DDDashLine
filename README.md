@@ -6,6 +6,8 @@ DDDashLine is just a dash line!
 #### CocoaPods
 
 	pod 'DDDashLine'
+
+Add use_frameworks! to you Podfile.
  
 #### Source File
 You can copy all the files under the `SRC` folder into your project.
